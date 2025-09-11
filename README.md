@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 - 🔭 I'm now a CS PhD student at HKUST CSE department, supervised by [Prof. Lemin Li](https://ieeexplore.ieee.org/author/37087146991). 
 
 -->
-![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=triston-lee)
-![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=triston-lee&theme=xcode)
-![GitHub Streak](https://streak-stats.demolab.com/?user=triston-lee)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/triston-lee/triston-lee/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/triston-lee/triston-lee/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/triston-lee/triston-lee/output/github-contribution-grid-snake.svg">
+</picture>
 
 
