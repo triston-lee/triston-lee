@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=000000&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Triston+Lee.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=000000&vCenter=true&random=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Triston+Lee.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=yliuhz&color=ff69b4&label=Visitors)
 
