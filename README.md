@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 -->
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=triston-lee)
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=triston-lee&theme=xcode)
+![GitHub Streak](https://streak-stats.demolab.com/?user=triston-lee)
+
