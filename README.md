@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🔭 I'm now a CS PhD student at HKUST CSE department, supervised by [Prof. Lemin Li](https://ieeexplore.ieee.org/author/37087146991). 
 
 -->
-- 🔭 I'm now a
+![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen)
