@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+Triston+Lee.)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Triston+Lee.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=yliuhz&color=ff69b4&label=Visitors)
 
@@ -20,10 +20,4 @@ Here are some ideas to get you started:
 - 🔭 I'm now a CS PhD student at HKUST CSE department, supervised by [Prof. Lemin Li](https://ieeexplore.ieee.org/author/37087146991). 
 
 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/triston-lee/triston-lee/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/triston-lee/triston-lee/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/triston-lee/triston-lee/output/github-contribution-grid-snake.svg">
-</picture>
-
 
