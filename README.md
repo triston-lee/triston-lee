@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=yliuhz&color=ff69b4&label=Visitors)
+
 <!--
 **triston-lee/triston-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me: Please refer to [my personal site](http://yliuhz.github.io) and [my blogs](http://yliuhz.github.io/blogs). 
+- 🤔 I’m currently working on graph machine learning and large language models. 
+- 🔭 I'm now a CS PhD student at HKUST CSE department, supervised by [Prof. Lemin Li](https://ieeexplore.ieee.org/author/37087146991). 
+
 -->
+- 🔭 I'm now a
