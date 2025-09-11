@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🔭 I'm now a CS PhD student at HKUST CSE department, supervised by [Prof. Lemin Li](https://ieeexplore.ieee.org/author/37087146991). 
 
 -->
-![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taot-chen)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Taot-chen&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=triston-lee)
+[![trophy](https://github-profile-trophy.vercel.app/?username=triston-lee&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
