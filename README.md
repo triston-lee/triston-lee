@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 -->
 ![Taot's GitHub stats](https://github-readme-stats.vercel.app/api?username=triston-lee)
-[![trophy](https://github-profile-trophy.vercel.app/?username=triston-lee&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Taot-chen&theme=xcode)
