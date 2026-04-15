@@ -7,19 +7,23 @@
 ---
 
 <p align="center">
-  <sub>graph machine learning</sub>
+  <sub>Large Language Models</sub>
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>large language models</sub>
+  <sub>Agent</sub>
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>systems / tools / interfaces</sub>
+  <sub>Reinforcement Learning</sub>
+  <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
+  <sub>Graph Learning</sub>
 </p>
 
 <p align="center">
-  <sub>图机器学习</sub>
-  <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
   <sub>大语言模型</sub>
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>系统 / 工具 / 界面</sub>
+  <sub>智能体</sub>
+  <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
+  <sub>强化学习</sub>
+  <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
+  <sub>图学习</sub>
 </p>
 
 <p align="center">
