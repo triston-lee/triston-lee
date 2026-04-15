@@ -7,23 +7,23 @@
 ---
 
 <p align="center">
-  <sub>Large Language Models</sub>
+  Large Language Models
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>Agent</sub>
+  Agent
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>Reinforcement Learning</sub>
+  Reinforcement Learning
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>Graph Learning</sub>
+  Graph Learning
 </p>
 
 <p align="center">
-  <sub>大语言模型</sub>
+  大语言模型
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>智能体</sub>
+  智能体
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>强化学习</sub>
+  强化学习
   <span>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;</span>
-  <sub>图学习</sub>
+  图学习
 </p>
 
 <p align="center">
